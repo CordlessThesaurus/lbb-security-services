@@ -15,8 +15,8 @@ A responsive one-page company website built with plain HTML, CSS and JavaScript.
 
 ## Important placeholders
 The website uses placeholder contact information:
-- Email: `info@yourcompany.com`
-- Phone: `+63 000 000 0000`
+- Email: `main@lbbssc.agency`
+- Phone: `+63 995 013 5025`
 
 Replace these with the corporation's official contact details before publishing.
 
