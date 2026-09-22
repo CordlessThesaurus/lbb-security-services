@@ -6,7 +6,7 @@ A responsive one-page company website built with plain HTML, CSS and JavaScript.
 - `index.html` — main website
 - `style.css` — responsive design and layout
 - `script.js` — mobile navigation and current year
-- `https://photobucket.com/share/e22cc6b2-49c5-4052-a28a-56b209ef2cbe` — supplied company logo
+- `assets/logo.png` — supplied company logo
 
 ## How to use
 1. Extract the ZIP file.
